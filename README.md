@@ -13,9 +13,7 @@ If `qr_screen_scanner` is not available after you run the command above you don'
 
 Maybe that's because you didn't have the directory before running the command. In general `.profile` will load that directory if exists as part of your `$PATH`, so the next time you login or `source` `.profile` you'll have `qr_screen_scanner` available.
 
-Execute `qr_screen_scanner` to read a qr code in the screen.
-
-This supports multiple qr in the screen if they are valid qr's.
+Execute `qr_screen_scanner` to read a qr code (or more than one!) in the screen.
 
 ## Try it out!
 
