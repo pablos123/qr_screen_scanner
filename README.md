@@ -19,5 +19,5 @@ This supports multiple qr in the screen if they are valid qr's.
 
 ## Try it out!
 
-![darksous](https://user-images.githubusercontent.com/52180403/222567947-05b7496b-9b5c-4221-b308-020dd6e68b64.png)
-![bull](https://user-images.githubusercontent.com/52180403/222568140-2d2ba09c-5333-49aa-9df2-6796d08a65d8.png)
+![darksous](https://user-images.githubusercontent.com/52180403/222567947-05b7496b-9b5c-4221-b308-020dd6e68b64.png | =250x250)
+![bull](https://user-images.githubusercontent.com/52180403/222568140-2d2ba09c-5333-49aa-9df2-6796d08a65d8.png | =250x250)
