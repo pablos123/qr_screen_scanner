@@ -1,0 +1,3 @@
+#!/bin/bash
+
+(scrot -s '/tmp/pablito_qr_scan.png' -e 'zbarimg $f && rm -f $f') 2> /dev/null | xclip
