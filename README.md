@@ -1,9 +1,9 @@
-### Dependencies
+## Dependencies
 ```terminal
 sudo apt install scrot zbar-tools xclip
 ```
 
-### Install
+## Install
 ```terminal
 wget https://raw.githubusercontent.com/pablos123/extremely_complex_qr_scanner/main/qr_screen_scanner -P $HOME/.local/bin/ && chmod +x $HOME/.local/bin/qr_screen_scanner
 ```
@@ -17,7 +17,7 @@ Execute `qr_screen_scanner` to read a qr code in the screen.
 
 This supports multiple qr in the screen if they are valid qr's.
 
-#### Try it out!
+## Try it out!
 
-![frame](https://user-images.githubusercontent.com/52180403/222566998-490ca382-9861-40f5-b90a-e582b65e8c34.png) 
-![frame(1)](https://user-images.githubusercontent.com/52180403/222567211-d91cde22-c786-46e2-9d0e-693c5eb5fec4.png)
+![darksous](https://user-images.githubusercontent.com/52180403/222567947-05b7496b-9b5c-4221-b308-020dd6e68b64.png)
+![bull](https://user-images.githubusercontent.com/52180403/222568140-2d2ba09c-5333-49aa-9df2-6796d08a65d8.png)
