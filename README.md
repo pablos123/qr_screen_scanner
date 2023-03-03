@@ -5,7 +5,7 @@ sudo apt install scrot zbar-tools xclip
 
 ## Install
 ```terminal
-wget https://raw.githubusercontent.com/pablos123/extremely_complex_qr_scanner/main/qr_screen_scanner -P $HOME/.local/bin/ && chmod +x $HOME/.local/bin/qr_screen_scanner
+mkdir -P $HOME/.local/bin/ && rm -f $HOME/.local/bin/qr_screen_scanner && wget https://raw.githubusercontent.com/pablos123/extremely_complex_qr_scanner/main/qr_screen_scanner -P $HOME/.local/bin/ && chmod +x $HOME/.local/bin/qr_screen_scanner
 ```
 This will create a file in `$HOME/.local/bin/` named `qr_screen_scanner`
 
@@ -17,5 +17,5 @@ Execute `qr_screen_scanner` to read a qr code (or more than one!) in the screen.
 
 ## Try it out!
 
-<img src="https://user-images.githubusercontent.com/52180403/222569613-e3230131-0ae5-4865-bc64-f4ae2415f2ca.png" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/52180403/222570023-52583da7-c82b-4246-9c76-67d315f1ba9e.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/52180403/222609479-88fad340-a000-4247-80cd-7954627f292c.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/52180403/222609473-5546cbc6-b85f-4ba9-a635-2b1d85cf1e62.png" width="100" height="100">
